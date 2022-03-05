@@ -1,1 +1,1 @@
-Simple fastAPI project which has various endpoints
+Simple project for demonstration of fastapi by creating various endpoints which perform CRUD operations
