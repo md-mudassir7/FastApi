@@ -1,0 +1,1 @@
+Simple fastAPI project which has various endpoints
